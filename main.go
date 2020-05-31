@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/tuckersGo/goWeb/web5/myapp"
+	"github.com/rapael3020/Golang-Restful-API/WEB5/myapp"
 )
 
 func main() {
