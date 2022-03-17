@@ -8,4 +8,5 @@
     4) git subtree add --prefix=(새로만든레포지토리 하위폴더로 생성할 이름) (옮겨서 합쳐질 예전 레포지토리 주소) branch명 을 입력해서 합칩니다.
     ex> git subtree add --prefix=Baekjoon https://github.com/rapael3020/answer.git main
 ### 레포지토리
-- gotuto1 폴더에는 2020.05.29에 생성된 파일들로, golang을 이용한 file서버 및 테스트 파일의 사용으로 예제 실습을 진행하였습니다.
+- gotuto1 폴더에는 2020.05.29에 생성된 폴더로, golang을 이용한 file서버 및 테스트 파일의 사용으로 예제 실습을 진행하였습니다.
+- gotuto2 폴더에는 2020.05.12에 생성된 폴더로, golang과 Docker 실습 파일입니다.
