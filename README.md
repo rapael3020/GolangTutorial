@@ -13,3 +13,4 @@
 - gotuto3 폴더에는 2020.05.16에 생성된 폴더로, golang을 활용한 pingpong서버 예제 실습 파일입니다.
 - gotuto4 폴더에는 2020.07.15에 생성된 폴더로, golang을 활용한 web개발 예제 실습 파일입니다.
 - gotuto5 폴더에는 2020.06.08에 생성된 폴더로, golang을 활용한 WEB Restful API 예제 실습 파일입니다.
+- gotuto6 폴더에는 2020.06.08에 생성된 폴더로, golang을 활용한 WEB Restful API 예제 실습 두번째 파일입니다.
